@@ -16,9 +16,14 @@ VII | queued | [Bioinformatics Capstone: Big Data in Biology](https://www.course
 
 ## I. Finding Hidden Messages in DNA
 ### Finding Replication Origins
-+ The hidden message problem
-+ The frequent words problem
-+ The pattern matching problem
-+ The clump finding problem
-### Huntig Regulatory Motifs
-### How Rolling Dice Helps Us Find Regulatory Motifs
++ Hidden message problem
++ Frequent words problem
++ Pattern matching problem
++ Clump finding problem
+### Finding Regulatory Motifs
+
+---
+
+## II. Genome Sequencing
+### Genome Assembly
++ String Composition Problem
