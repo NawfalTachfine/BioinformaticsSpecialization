@@ -11,26 +11,37 @@ IV  | queued | [Molecular Evolution](https://www.coursera.org/learn/molecular-ev
 V   | queued | [Genomic Data Science and Clustering](https://www.coursera.org/learn/genomic-data) |
 VI  | queued | [Finding Mutations in DNA and Proteins](https://www.coursera.org/learn/dna-mutations) |
 
-
 <!--
 VII | queued | [Bioinformatics Capstone: Big Data in Biology](https://www.coursera.org/learn/bioinformatics-project) |
 -->
 
 ---
-
 ## I. Finding Hidden Messages in DNA
-### Finding Replication Origins
+
+### 1. [Introduction](https://stepik.org/course/604)
 + Hidden message problem
-+ Frequent words problem
 + Pattern matching problem
 + Clump finding problem
 
-### Finding Regulatory Motifs
+### 2. [Finding Replication Origins](https://stepik.org/course/605)
++ Frequent words problem
++ Approximate search and Hamming distance
+
+### 3. [Hunting for Regulatory Motifs](https://stepik.org/course/606)
++ Greedy and pseudo-greedy motif search
+
+### 4. [How Rolling Dice Helps Us Find Regulatory Motifs](https://stepik.org/course/607)
++ Randomized motif search and Gibbs sampling
 
 ---
-
 ## II. Genome Sequencing
-### Genome Assembly
-+ String Composition Problem
-+ Overlap Graphs and Hamiltonian Paths
+
+### 1. [Introduction to Genome Sequencing](https://stepik.org/course/608)
++ String composition problem and genome assembly
++ Overlap graphs and Hamiltonian paths
 + De Bruijn Graphs and Eulerian Paths
+
+### 2. [Applying Euler's Theorem to Assemble Genomes](https://stepik.org/course/609)
+### 3. [Sequencing Antibiotics](https://stepik.org/course/610)
+### 4. [From Ideal to Real Spectra for Antibiotics Sequencing](https://stepik.org/course/611)
+---
