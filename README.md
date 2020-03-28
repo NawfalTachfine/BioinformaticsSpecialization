@@ -42,6 +42,8 @@ VII | queued | [Bioinformatics Capstone: Big Data in Biology](https://www.course
 + De Bruijn Graphs and Eulerian Paths
 
 ### 2. [Applying Euler's Theorem to Assemble Genomes](https://stepik.org/course/609)
++ Read-Pairs and Virtual Reads
+
 ### 3. [Sequencing Antibiotics](https://stepik.org/course/610)
 ### 4. [From Ideal to Real Spectra for Antibiotics Sequencing](https://stepik.org/course/611)
 ---
