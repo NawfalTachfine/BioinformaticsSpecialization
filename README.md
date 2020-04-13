@@ -43,6 +43,12 @@ VII | queued | [Bioinformatics Capstone: Big Data in Biology](https://www.course
 
 ### 2. [Applying Euler's Theorem to Assemble Genomes](https://stepik.org/course/609)
 + Read-Pairs and Virtual Reads
++ Assembling Genomes from Read Pairs
++ Dealing with Real Sequencing Data
+  - imperfect coverage
+  - error-prone reads and bubble detection/correction
+  - inexact repeats
+  - inferring k-mer multiplicities
 
 ### 3. [Sequencing Antibiotics](https://stepik.org/course/610)
 ### 4. [From Ideal to Real Spectra for Antibiotics Sequencing](https://stepik.org/course/611)
