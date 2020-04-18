@@ -51,5 +51,9 @@ VII | queued | [Bioinformatics Capstone: Big Data in Biology](https://www.course
   - inferring k-mer multiplicities
 
 ### 3. [Sequencing Antibiotics](https://stepik.org/course/610)
++ Protein Translation
++ Mass Spectrometry and Cyclopeptide Sequencing
+
 ### 4. [From Ideal to Real Spectra for Antibiotics Sequencing](https://stepik.org/course/611)
+
 ---
