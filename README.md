@@ -55,5 +55,40 @@ VII | queued | [Bioinformatics Capstone: Big Data in Biology](https://www.course
 + Mass Spectrometry and Cyclopeptide Sequencing
 
 ### 4. [From Ideal to Real Spectra for Antibiotics Sequencing](https://stepik.org/course/611)
++ Handling Noisy Spectra
++ Sequencing Peptides with Non-Proteinogenic Amino Acids
++ Spectral Convolutions
 
 ---
+## III. Comparing Genes, Proteins, and Genomes
+
+### 1. [Introduction to Sequence Alignment](https://stepik.org/course/612)
+### 2. [From Finding a Longest Path to Aligning DNA Strings](https://stepik.org/course/613)
+### 3. [Advanced Topics in Sequence Alignment](https://stepik.org/course/614)
+### 4. [Genome Rearrangements and Fragility](https://stepik.org/course/615)
+### 5. [Applying Genome Rearrangements Analysis to Find Genome Fragility](https://stepik.org/course/616)
+
+---
+## IV. Molecular Evolution
+
+### 1. [Introduction to Evolutionary Tree Construction](https://stepik.org/course/617)
+### 2. [More Algorithms for Constructing Trees from Distance Matrices](https://stepik.org/course/618)
+### 3. [Constructing Evolutionary Trees from Characters](https://stepik.org/course/619)
+### 4. [Was T. rex Just a Big Chicken?](https://stepik.org/course/620)
+### 5. [Resolving the T. rex Peptides Mystery?](https://stepik.org/course/621)
+
+---
+## V. Genomic Data Science and Clustering
+
+### 1. [Introduction to Clustering Algorithms](https://stepik.org/course/691)
+### 2. [Advanced Clustering Techniques](https://stepik.org/course/692)
+### 3. [Introductory Algorithms in Population Genetics](http://bioinformaticsalgorithms.com/excerpt/How%20Have%20Humans%20Populated%20the%20Earth.pdf)
+
+---
+## VI. Finding Mutations in DNA and Proteins
+
+### 1. [Introduction to Read Mapping](https://stepik.org/course/686)
+### 2. [The Burrows-Wheeler Transform](https://stepik.org/course/687)
+### 3. [Speeding Up Burrows-Wheeler Read Mapping](https://stepik.org/course/688)
+### 4. [Introduction to Hidden Markov Models](https://stepik.org/course/5273)
+### 5. [Profile HMMs for Sequence Alignment](https://stepik.org/course/5274)
