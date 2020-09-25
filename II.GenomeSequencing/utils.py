@@ -3,8 +3,10 @@ from typing import List, Dict
 
 with open('data/integer_mass_table.txt', 'r') as reference_file:
     masses = [line.strip().split(' ') for line in reference_file.readlines()]
+
 INTEGER_MASSES = {mass[0]: int(mass[1]) for mass in masses}
-    
+RESTRICTED_MASSES = {aa: mass for aa, mass in INTEGER_MASSES.items() if aa not in ['I', 'K']}
+
     
 def parse_spectrum(spectrum: str) -> List[int]:
     return list(map(int, spectrum.split(' ')))
