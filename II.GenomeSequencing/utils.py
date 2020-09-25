@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Dict
 
 
 with open('data/integer_mass_table.txt', 'r') as reference_file:
@@ -10,5 +10,5 @@ def parse_spectrum(spectrum: str) -> List[int]:
     return list(map(int, spectrum.split(' ')))
 
 
-def display_spectrum(peptide: str) -> str:
-    return '-'.join([str(INTEGER_MASSES[aa]) for aa in peptide])
+def display_spectrum(peptide: str, integer_masses: Dict[str, int] = INTEGER_MASSES) -> str:
+    return '-'.join([str(integer_masses[aa]) for aa in peptide])
