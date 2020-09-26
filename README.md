@@ -5,7 +5,7 @@
 N°  | Status | Course |
 --- | --- | --- |
 I   | done | [Finding Hidden Messages in DNA](https://www.coursera.org/learn/dna-analysis)
-II  | current | [Genome Sequencing](https://www.coursera.org/learn/genome-sequencing)
+II  | done | [Genome Sequencing](https://www.coursera.org/learn/genome-sequencing)
 III | queued | [Comparing Genes, Proteins, and Genomes](https://www.coursera.org/learn/comparing-genomes) |
 IV  | queued | [Molecular Evolution](https://www.coursera.org/learn/molecular-evolution) |
 V   | queued | [Genomic Data Science and Clustering](https://www.coursera.org/learn/genomic-data) |
